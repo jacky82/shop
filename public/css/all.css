@@ -31,7 +31,12 @@ a{text-decoration:none;}
 	min-height:200px;
 	margin:5px 0;
 }
+#mainContent{
+	width:730px;
+	float:right;
+}
 #sider{
+	float:left;
 	border-right:1px solid #CCCCCC;
 	height:100%;
 	min-height:200px;	
